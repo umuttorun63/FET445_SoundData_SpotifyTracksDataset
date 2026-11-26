@@ -2,7 +2,7 @@
 
 Veri Madenciliği (FET445) dersi kapsamında hazırlanan bu projede, şarkıların dijital ve akustik ses özellikleri ile müzik türü kullanılarak Spotify üzerindeki güncel popülerlik skorunun (`popularity`) **regresyon** yöntemleriyle tahmin edilmesi amaçlanmaktadır.
 
-📄 **Proje önerisi:** [`docs/UmutTorun_23040101063_SoundData_FET445_ProjectOutline.pdf`](docs/UmutTorun_23040101063_SoundData_FET445_ProjectOutline.pdf)
+📄 **Proje önerisi:** [`docs/SoundData_FET445_ProjectOutline.pdf`](docs/SoundData_FET445_ProjectOutline.pdf)
 
 ## 👥 Ekip Bilgileri — SoundData
 
