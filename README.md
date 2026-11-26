@@ -8,13 +8,13 @@
 
 | Ad Soyad | Öğrenci Numarası | Sorumluluk Alanı |
 | :--- | :--- | :--- |
-| **Umut Torun** | `[Öğrenci No]` | Veri hazırlığı, EDA, Ridge Regresyon ve LightGBM Regressor |
-| `[2. Üye Ad Soyad — varsa]` | `[Öğrenci No]` | Öznitelik mühendisliği, Random Forest Regressor ve hata analizi |
+| **Umut Torun** | `23040101063` | Veri hazırlığı, EDA, Ridge Regresyon ve LightGBM Regressor |
+| **Onur Şengün** | `23040101044` | Öznitelik mühendisliği, Random Forest Regressor ve hata analizi |
 
 ---
 
 ## 🎯 Araştırma Sorusu
-> *"Bir şarkının dijital ve akustik ses özellikleri (dans edilebilirlik, enerji, ses yüksekliği, akustiklik, tempo vb.) ile müzik türü kullanılarak Spotify üzerindeki güncel popülerlik skoru ne doğrulukla tahmin edilebilir?"*
+> *"Bir şarkının dijital ve akustik ses özellikleri ile müzik türü kullanılarak Spotify üzerindeki güncel popülerlik skoru ne doğrulukla tahmin edilebilir?"*
 
 ---
 
